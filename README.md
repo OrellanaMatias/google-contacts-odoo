@@ -1,3 +1,1 @@
-# Push Odoo Contacts a Google Contacts
-
-En desarrollo
+## Sincronizar contactos de Odoo Contacts a Google Contacts
