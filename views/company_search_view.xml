@@ -1,0 +1,17 @@
+<odoo>
+    <record id="view_company_search_form" model="ir.ui.view">
+        <field name="name">company.search.wizard.form</field>
+        <field name="model">company.search.wizard</field>
+        <field name="arch" type="xml">
+            <form string="Search Company">
+                <group>
+                    <field name="company_id"/>
+                </group>
+                <footer>
+                    <button name="search_company_name" string="Search" type="object" class="btn-primary"/>
+                    <button string="Cancel" class="btn-secondary" special="cancel"/>
+                </footer>
+            </form>
+        </field>
+    </record>
+</odoo>

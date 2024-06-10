@@ -1,0 +1,3 @@
+module localised under : /root/odoo_dir/custom/lpn_contact_module
+
+aaae
