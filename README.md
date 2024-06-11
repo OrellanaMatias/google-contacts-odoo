@@ -1,1 +1,1 @@
-## Sincronizar contactos de Odoo Contacts a Google Contacts
+## Sincronizar contactos de Odoo Contacts con Google Contacts
